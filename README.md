@@ -108,3 +108,22 @@ The Screenshots folder contains evidence from the lab, including:
 
 All scanning and testing in this project was performed within my own controlled virtual lab environment for educational purposes.
 
+## Lab Evidence
+
+### Nmap Service Detection
+![Nmap service detection](Screenshots/6-%20nmap%20service%20detection.png)
+
+### Firewall Configuration
+![Firewall enabled](Screenshots/2-%20firewall%20enabled.png)
+
+### Network Interface Scan
+![Network interface scan](Screenshots/3-%20network%20interface%20scan.png)
+
+### Authorized Testing Environment
+![Authorized testing environment](Screenshots/5-%20firefox%20authorized%20testing%20environment.png)
+
+### Firewall Hardening Comparison
+![Before firewall hardening](Screenshots/1-%20before%20firewall%20hardening.png)
+
+### HTTP Directory Listing
+![HTTP directory listing](Screenshots/4-%20insecure%20directory%20listing.png)
